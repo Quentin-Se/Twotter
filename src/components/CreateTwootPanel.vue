@@ -76,6 +76,10 @@ export default {
 	display: flex;
 	flex-direction: column;
 
+	label {
+		color: #e6c200;
+	}
+
 	text-area {
 		border: 1px solid #dfe3e8;
 	}
@@ -86,6 +90,10 @@ export default {
 
 		.create-twoot-type {
 			padding: 10px 0;
+
+			#newTwootType {
+				margin-left: 5px;
+			}
 		}
 
 		button {
@@ -93,9 +101,10 @@ export default {
 			margin: auto 0;
 			border-radius: 5px;
 			border: none;
-			background-color: #42b983;
+			background-color: #e6c200;
 			color: white;
 			font-weight: bold;
+			cursor: pointer;
 		}
 	}
 

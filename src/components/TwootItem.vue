@@ -28,9 +28,9 @@ export default {
 <style lang="scss" scoped>
 .twoot-item {
 	padding: 20px;
-	background-color: #e4f5ef;
+	background-color: #fff6c4;
 	border-radius: 5px;
-	border: 1px solid #42b983;
+	border: 1px solid #e6c200;
 	box-sizing: border-box;
 	cursor: pointer;
 	transition: all 0.25s ease;

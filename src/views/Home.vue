@@ -29,6 +29,7 @@ export default {
 <style lang="scss" scoped>
 .home {
 	padding: 50px 5%;
+	color: #e6c200;
 
 	.users-list {
 		display: flex;

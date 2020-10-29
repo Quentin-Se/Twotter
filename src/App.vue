@@ -38,14 +38,14 @@ export default {
 	-moz-osx-font-smoothing: grayscale;
 	color: #2c3e50;
 	min-height: 100vh;
-	background-color: #f3f5fa;
+	background-color: #3d3d3d;
 
 	nav {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
 		padding: 10px 5%;
-		background-color: #42b983;
+		background-color: #e6c200;
 		color: white;
 
 		.navigation__logo {
