@@ -6,6 +6,7 @@ export const users = [
 		lastName: 'Sénélas',
 		email: 'quentin.devtest@gmail.com',
 		isAdmin: true,
+		followers: 74687,
 		twoots: [
 			{ id: 1, content: 'Twotter is amazing!' },
 			{
@@ -21,6 +22,7 @@ export const users = [
 		lastName: 'Stark',
 		email: null,
 		isAdmin: false,
+		followers: 45863,
 		twoots: [],
 	},
 	{
@@ -30,6 +32,7 @@ export const users = [
 		lastName: 'Banner',
 		email: null,
 		isAdmin: false,
+		followers: 39584,
 		twoots: [],
 	},
 	{
@@ -39,6 +42,7 @@ export const users = [
 		lastName: 'Parker',
 		email: null,
 		isAdmin: false,
+		followers: 63024,
 		twoots: [],
 	},
 ];
